@@ -1,0 +1,5 @@
+<svg id="wallet" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 40 40">
+  <path id="Path_178" data-name="Path 178" d="M0,0H40V40H0Z" fill="none"/>
+  <path id="Path_179" data-name="Path 179" d="M25.482,10.7V5.674A1.663,1.663,0,0,0,23.83,4H7.3a3.348,3.348,0,0,0,0,6.7h19.83a1.663,1.663,0,0,1,1.652,1.674V17.39m0,6.7v5.021a1.663,1.663,0,0,1-1.652,1.674H7.3A3.326,3.326,0,0,1,4,27.433V7.348" transform="translate(2.761 2.61)" fill="none" stroke="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Path_180" data-name="Path 180" d="M23.915,12v6.61H17.3a3.3,3.3,0,1,1,0-6.61h6.61" transform="translate(9.4 8.034)" fill="none" stroke="#e6e6e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

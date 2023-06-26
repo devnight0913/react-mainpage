@@ -1,0 +1,18 @@
+.profile-container{
+    background-color: #0D2A53 !important;
+    padding: 3vh 2vh 2vh 2vh;
+}
+.card{
+    background-color: #0D2A53 !important;
+    padding: 5vh 3vh 2vh 3vh;
+}
+.profile{
+    background-color: #0B2447 !important;
+    padding: 2px;
+}
+.users-icon{
+    margin-left: 5vw;
+}
+.profile-bottom{
+    padding-bottom: 9.3vw;
+}

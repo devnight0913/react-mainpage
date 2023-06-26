@@ -1,0 +1,6 @@
+<svg id="basket" xmlns="http://www.w3.org/2000/svg" width="81.5" height="81.5" viewBox="0 0 81.5 81.5">
+  <path id="Path_454" data-name="Path 454" d="M0,0H81.5V81.5H0Z" fill="none"/>
+  <path id="Path_455" data-name="Path 455" d="M7,24.375,23.979,4,40.958,24.375" transform="translate(16.771 9.583)" fill="none" stroke="#ff7dff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path id="Path_456" data-name="Path 456" d="M64.125,10,57.333,37.167c-.655,4.017-3.513,6.874-6.792,6.792H16.583c-3.279.083-6.136-2.775-6.792-6.792L3,10Z" transform="translate(7.188 23.958)" fill="none" stroke="#f6f6f6" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path id="Path_457" data-name="Path 457" d="M16.792,19.792m-6.792,0A6.792,6.792,0,1,0,16.792,13,6.792,6.792,0,0,0,10,19.792" transform="translate(23.958 31.146)" fill="none" stroke="#ff7dff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+</svg>
